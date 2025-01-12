@@ -13,7 +13,6 @@
 - 👨‍💻 All of my projects are available at [Cyberwala](https://dishantkb981.github.io/cyberwala/)
 - 💬 Ask me about **CyberSecurity, Ethical Hacking, and Development**
 - 📫 How to reach me: **vishwakarmadishant4@gmail.com**
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1PQ9-WGn1MHZccfs2nzxUARrOv1_SCTDCDZCg4wMqZrE/edit?usp=drive_link)
 - ⚡ Fun fact: **I consider myself a funny and shy person!**
 
 ### Skills
