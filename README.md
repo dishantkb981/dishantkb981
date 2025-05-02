@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **Crxoid Custom ROM**
 - 🌱 I’m currently learning **Ethical Hacking, Android Penetration Tester, eJPTv2, CAPT**
-- 👯 I’m looking to collaborate on **Evolution X Team**
-- 🤝 I’m looking for help with **Evolution X Team**
-- 👨‍💻 All of my projects are available at [Cyberwala](https://dishantkb981.github.io/cyberwala/)
+- 👨‍💻 All of my projects are available at [Cyberwala](https://dishantopcyber.netlify.app/)
 - 💬 Ask me about **CyberSecurity, Ethical Hacking, and Development**
 - 📫 How to reach me: **vishwakarmadishant4@gmail.com**
 - ⚡ Fun fact: **I consider myself a funny and shy person!**
